@@ -9,8 +9,10 @@
 
 body{
 	margin:0px;
-	background:#969fab;
-	font-family:"Lato", sans-serif;
+	background:;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1.5em; 
+	
 }
 .bgICM{
 	 /* The image used */
