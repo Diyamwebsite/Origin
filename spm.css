@@ -24,54 +24,53 @@ body{
   	top: 0;
   	left: 0;
 }
-.tab {
+.main-box{
+	padding-top:80px;
+	padding-left:50px;
+	max-width: 980px;
+    position: relative;
     float: left;
-    background-color: #003060;
-    margin-top:100px;
-    margin-bottom:100px;
-    width: 30%;
-    height: 60%;
+  
+}
+.main-box img{
+	position:relative;
+  	z-index:1;
+  	border: 0px solid red;
+  	margin: 50px;
+}
+.overlay p{
+	
+   	text-align:justify;
+    margin-top: 0%;
+}
+.overlay{
+	position: absolute;
+	z-index:1;
+  bottom: 100%;
+  margin:50px;
+  padding:50px;
+  background-color: #b9dcff;
+  overflow: hidden;
+  width: 350px;
+  height:0;
+  transition: .5s ease;
+}
+.main-box:hover .overlay{
+	
+	 bottom: 0;
+  height: 450px;
 }
 
-/* Style the buttons inside the tab */
-.tab button {
-    display: block;
-    background-color: #003060;
-    color: black;
-    padding: 70px;
-    width: 100%;
-    border: none;
-    outline: none;
-    text-align: left;
-    cursor: pointer;
-    font-size: 17px;
-}
+/* Centered text */
+.centered {
+	position: absolute;
+	z-index:1;
+    top: 50%;
+    left: 25%;
+    transform: translate( -50%, -50% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
 
-/* Change background color of buttons on hover */
-.tab button:hover {
-    background-color: #ddd;
-}
-
-/* Create an active/current "tab button" class */
-.tab button.active {
-    background-color: #66b3ff;
-}
-
-/* Style the tab content */
-.tabcontent {
-	color:activeborder;
-    float: left;
-    padding: 0px 12px;
-    margin-top:100px;
-    width: 60%;
-    border-left: none;
-    height: 500px;
-    display: none;
-}
-
-/* Clear floats after the tab */
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
 }
