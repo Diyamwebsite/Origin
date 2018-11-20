@@ -18,6 +18,7 @@
 				<div class="centered">Business Intelligence</div>
   				<div class="overlay">
   					<p>BI supports corporate executives, business managers and other operational workers make better and more informed business decisions. Companies also use BI to cut costs, identify new business opportunities, and spot inefficient business processes ripe for re-engineering.</p>
+  					<div class="link"><a id="BI" href="BIContent.php">Read More...</a></div>
   				</div>
   			
 		</div>
@@ -27,6 +28,7 @@
 				<div class="centered">Business Analytics</div>
   				<div class="overlay">
   					<p>Business analytics (BA) refers to skills, technologies, practices for continuous iterative exploration and investigation of past business performance to gain insight and drive business planning. Business analytics focuses on developing new insights and understanding of business performance based on data and Statistical methods.</p>
+  					<div class="link"><a id="BA" href="BAContent.php">Read More...</a></div>
   				</div>
 		</div>
 		
@@ -35,11 +37,11 @@
 				<div class="centered">Data Integration</div>
   				<div class="overlay">
   					<p>Data integration is the combination of technical and business processes used to combine data from disparate sources into meaningful and valuable information. A complete data integration solution delivers trusted data from various sources.</p>
+  					<div class="link"><a id="Data" href="BDataContent.php">Read More...</a></div>
   				</div>	
 		</div>
+			<iframe id="contentload" style="width:100%;height:100%; display:none" name="spm" ></iframe>
 	</div>
 </div>
-
-
 </body>
 </html>

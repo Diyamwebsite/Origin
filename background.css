@@ -6,7 +6,7 @@ body {
   overflow-x:hidden !important;
   overflow-y:scroll;
   font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 2em; 
+ 
   
 }
 .port
@@ -35,7 +35,7 @@ body {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-	color: #252b33 !important;
+	color: buttonhighlight!important;
 	font-weight:600 !important;
 	transition:all .3s ease-in-out;
 	position:relative !important;
@@ -161,7 +161,7 @@ ul.timeline > li:before {
 
 .fa {
  
-  font-size: 30px;
+  font-size: 20px;
   text-align:center;
   text-decoration: none;
   margin: 5px 2px;
@@ -204,6 +204,10 @@ ul.timeline > li:before {
   color: white;
 }
 
+.header{
+	text-transform: inherit;
+	
+}
 .navbar-inverse
 {
 	background-color:transparent !important;
@@ -214,6 +218,4 @@ ul.timeline > li:before {
 	background-color:transparent !important;
 	border:none !important;
 }
-
-
 

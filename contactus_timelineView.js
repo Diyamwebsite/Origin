@@ -45,6 +45,21 @@
 						$(".contact").hide();
 						
 					}
+					else if(id=="spm"){
+						$("#pageLoader").attr("src","SPM.php");
+						$("#pageLoader").show();
+						$(".contact").hide();
+					}
+					else if(id=="Web"){
+						$("#pageLoader").attr("src","Web.php");
+						$("#pageLoader").show();
+						$(".contact").hide();
+					}
+					else if(id=="BI"){
+						$("#pageLoader").attr("src","BI.php");
+						$("#pageLoader").show();
+						$(".contact").hide();
+					}
 				});
 			}
 

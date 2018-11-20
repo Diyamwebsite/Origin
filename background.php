@@ -24,11 +24,17 @@
 						style="width: 75px; height: 75px;">
 				</div>
 				<div id="divcol" class="col-md-10">
-					<div class="navbar-collapse collapse"
-						style="margin-top:15px;">
+					<div class="navbar-collapse collapse" style="margin-top:15px;">
+					<div class="header">
 						<ul class="nav navbar-nav" style="float: right;">
 							<li><a id="home" class="port" >Home</a></li>
-							<li><a id="portfolio" class="port">Portfolio</a></li>
+							<li><a id="portfolio" class="port" data-toggle="dropdown">Portfolio<b class="caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a id="spm" class="port">SPM/ICM</a></li>
+									<li><a id="Web" class="port">Web Technologies</a></li>
+									<li><a id="BI" class="port">Business Integration Solutions</a></li>
+								</ul>
+							</li>
 							<li class="dropdown"><a href="#" class="dropdown-toggle"
 								data-toggle="dropdown">Customers <b class="caret"></b></a>
 								<ul class="dropdown-menu">
@@ -46,6 +52,7 @@
 							<li><a id="contact" class="port">Diyam</a></li>
 						</ul>
 					</div>
+				</div>
 				</div>
 			</div>
 		</div>
