@@ -4,7 +4,7 @@
 
 .container{
 	
-	Padding-top:0px;
+	Padding-top:100px;
 }
 
 body{
@@ -18,71 +18,53 @@ body{
 	 /* The image used */
     background-image: url("Images/DBA.png");
 
-   width: 100%;
+   width: 80%;
     height: 100%;
   	position: absolute;
-  	top: 0;
-  	left: 0;
+  	border: 5px solid red;
+  	opacity: 60%;
+ 
+  	
 }
-.main-box{
-	padding-top:80px;
-	padding-left:50px;
-	max-width: 980px;
-    position: relative;
-    float: left;
-  
-}
-.main-box img{
-	position:relative;
-  	z-index:1;
-  	border: 0px solid red;
-  	margin: 50px;
-}
-.overlay p{
-	
-   	text-align:justify;
-    margin-top: 0%;
-}
-.overlay{
-	position: absolute;
-	z-index:1;
-  bottom: 100%;
-  margin:50px;
-  padding:50px;
-  background-color: #f1f1f1;
-  overflow: hidden;
-  width: 350px;
-  height:0;
-  transition: .5s ease;
-  line-height: 200%;
-}
-.main-box:hover .overlay{
-	
-	 bottom: 0;
-  height: 450px;
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 250px;	
+  margin-top:40px;
+  text-align: center;
+  font-family: arial;
+  padding:20px;
+  padding-left:40px;
+  padding-right:40px;
+  padding-bottom:20px;
+  float:left;
+ border:0px solid green;
 }
 
-/* Centered text */
-.centered {
-	position: absolute;
-	z-index:1;
-    top: 50%;
-    left: 25%;
-    transform: translate( -50%, -50% );
-    text-align: center;
-    color: white;
-    font-weight: bold;
-    text-transform: uppercase;
+.title {
+  padding-top:20px;
+  color: #004080;
+  font-size: 24px;
+  text-align: center;
 }
 
-.link{
-	position:absolute;
-	bottom: 10px;
-	right: 16px;
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #004080;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
 }
 
-.content{
-	margin:50px;
-  padding:50px;
-  color: activeborder;
+
+button:hover {
+  opacity: 0.7;
+}
+
+content{
+	color:white;
 }
