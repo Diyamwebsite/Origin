@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+.container{
+	
+	Padding-top:40px;
+}
+
+body{
+	color:#004080;
+	margin:0px;
+	background:transparent;
+	font-family:"Questrial,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 1.5em; 
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+	
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 250px;	
+  margin-top:40px;
+  text-align: center;
+  font-family: arial;
+  padding-top:30px;
+  padding-left:40px;
+  padding-right:40px;
+  padding-bottom:20px;
+  float:left;
+ border:1px solid grey;
+}
+
+.card:hover{
+	-webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+	-moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+	box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+	cursor:pointer;	
+}
+
+.title {
+  
+  color: #004080;
+  font-size: 24px;
+  text-align: center;
+  font-weight: 400;
+}
+
+.card-body{
+	color:#004080;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #004080;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+
+button:hover {
+  opacity: 0.7;
+}
+
+.wrapper{
+  width:100%;
+}
+@media(max-width:992px){
+ .wrapper{
+  width:100%;
+} 
+}
+.panel-heading {
+  padding: 0;
+	border:0;
+}
+.panel-title>a, .panel-title>a:active{
+	display:block;
+	padding:15px;
+  color:#004080;
+  font-size:16px;
+  font-weight:normal;
+	text-decoration:none;
+}
+.panel-heading  a:before {
+   font-family: 'Glyphicons Halflings';
+   content: "\e114";
+   float: right;
+   transition: all 0.5s;
+}
+.panel-heading.active a:before {
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	transform: rotate(180deg);
+} 
