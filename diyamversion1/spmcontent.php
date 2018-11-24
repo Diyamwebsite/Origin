@@ -67,44 +67,59 @@
     </div>
   </div>
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingfour">
+    <div class="panel-heading" role="tab" id="headingtwo">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsetwo" aria-expanded="false" aria-controls="collapsetwo">
          Data Integration Strategy &amp; Services
         </a>
       </h4>
     </div>
-    <div id="collapsefour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfour">
+    <div id="collapsetwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingtwo">
       <div class="panel-body">
         Providing a full review, design, and implementation plan for an integrated, enterprise-wide data strategy for your SPM system. With data evolving from nothing more than transactional information to a powerful analytical tool, methods need to be deployed that ensure all data available is being leveraged as a valuable corporate asset. This includes assessing data quality as well as data sourcing.
       </div>
     </div>
   </div>
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingfive">
+    <div class="panel-heading" role="tab" id="headingthree">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsethree" aria-expanded="false" aria-controls="collapsethree">
           Advanced SPM Reporting &amp; Analytics
         </a>
       </h4>
     </div>
-    <div id="collapsefive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive">
+    <div id="collapsethree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingthree">
       <div class="panel-body">
         Analyze your compensation and sales data to fuel impactful decision-making. We ensure that you leverage SPM reporting tools to enable high visibility for sales teams, deep analysis of compensation programs, and vital information to drive change and success within your sales force.
       </div>
     </div>
   </div>
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="collapsesix">
+    <div class="panel-heading" role="tab" id="headingfour">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="collapsesix" aria-expanded="false" aria-controls="collapsesix">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
           Implementation Readiness &amp; Planning
         </a>
       </h4>
     </div>
-    <div id="collapsesix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingsix">
+    <div id="collapsefour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfour">
       <div class="panel-body">
         We provides a thorough assessment to evaluate the readiness of organizations to move towards a defined future state for SPM, from defining the future state through developing the implementation plan that includes evaluating existing technology, processes, and resources related to the incentive compensation process. Defined scope and risk planning are used to create a roadmap for implementation representing dependencies, risks, data, and resource needs.
+      </div>
+    </div>
+  </div>
+   <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingfive">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+          Compensation Plan &amp; Design
+        </a>
+      </h4>
+    </div>
+    <div id="collapsefive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive">
+      <div class="panel-body">
+        We provide right compensation plan for your organization balances simplicity with sales strategy alignment. Compensation planning directs sales behaviors, allowing sales people to prioritize their time and maximize their selling effort.
+        Our compensation plan design services are laser focused on execution. We want the new plan to be adopted and see the selling behavior change as quickly as possible. This speeds your time to value from the design phase and quickly materializes in revenue performance.
       </div>
     </div>
   </div>

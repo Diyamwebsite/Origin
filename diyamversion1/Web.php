@@ -11,8 +11,6 @@
 </style>
 <body>
 <div class="container">
-	<div class="bgWeb">
-	<div class="w3-container w3-center w3-animate-zoom">
 	<div class="text-web">
     <?php 
        echo "<h1 align=center> <q>Think Big... Achieve High..And We Make <q>IT</q> Possible..</q><br>
@@ -25,7 +23,5 @@
         echo "<p align=left>Yes, It's true there are lot of companies who do what we do and they also share the same <q>what</q> and <q>how</q>, but our product consumers work with us for our why(we immediately earn the trust of our clients and exceed their expectation) and our who(individuals with different aesthetics, opinions and backgrounds)</p>";
   ?>
      </div>   	
-  	</div>	
-  	</div>
 </div>
 </body>

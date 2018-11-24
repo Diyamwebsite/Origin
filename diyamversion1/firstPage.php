@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="row" style="text-align: center;">
-		<span style="color: #4646468f; font-size: 45px; font-style: italic;">Diyam
+		<span style="color: #4646468f; font-size: 36px; font-style: italic;">Diyam
 			is to provide simple, diverse and creative solutions, products and
 			services, for complex customer needs through technology and
 			passionate workforce....</span>

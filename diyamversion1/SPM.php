@@ -31,7 +31,7 @@
     <div class="card-body">
       <h3 class="card-title">Support &amp; Maintenance</h3>
       <p class="card-text">Delivering both business and technical support at the level that’s right for your organization.</p>
-      <br><a href="#" class="btn btn-primary">Learn More</a>
+      <br><a href="Support.php" class="btn btn-primary">Learn More</a>
     </div>
   </div>
   </div>
@@ -41,13 +41,13 @@
     <div class="card-body">
       <h3 class="card-title">Testing Services</h3>
       <p class="card-text">Visibility and transparency is the key to establishing trust and reinforcing the right behaviors. </p><br>
-      <a href="#" class="btn btn-primary">Learn More</a>
+      <a href="Testing.php" class="btn btn-primary">Learn More</a>
     </div>
   </div>
   </div>
   <div class="col-xs-6  col-sm-3 col-md-3">
   <div class="card">
-    <img class="img-fluid" src="Images/CONSULTANT.png" alt="Card image cap" style="width: 75px; height: 75px;">
+    <img class="img-fluid" src="Images/consulting.jpg" alt="Card image cap" style="width: 75px; height: 75px;">
     <div class="card-body">
       <h3 class="card-title">Consulting Services</h3>
       <p class="card-text">We partner with organizations to establish modern SPM program to identify and replicate great sales performers.</p>
