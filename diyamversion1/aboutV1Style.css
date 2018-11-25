@@ -1,6 +1,7 @@
 body{
 	background:transparent !important;
 	overflow:hidden !important;
+	font-family:"Montserrat", sans-serif;
 }
 .timeline{
 	list-style:none !important;

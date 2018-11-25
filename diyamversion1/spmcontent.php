@@ -26,7 +26,7 @@
      		<img class="img-fluid" src="Images/Imp1.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
    				<br>
-      			<p class="card-text">Providing objective opinions on products and industry best practices</p><br>
+      			<p class="card-text">Providing objective opinions on products and industry best practices</p><br><br>
     		</div>
   		</div>
   	</div>
@@ -35,7 +35,7 @@
      		<img class="img-fluid" src="Images/Imp2.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
    				<br>
-      			<p class="card-text">Creating a customized design and approach specific to your business objectives</p>
+      			<p class="card-text">Creating a customized design and approach specific to your business objectives</p><br>
     		</div>
   		</div>
   	</div>

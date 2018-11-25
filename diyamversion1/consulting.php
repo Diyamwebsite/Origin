@@ -12,14 +12,14 @@
 
 <body>
 <div class="container">
-<div class="title">Business Integration Tools &amp; Solutions</div>
+<div class="title">Let's Get Started To Choose Your SPM Service From Us...</div>
 <div class="card-deck mt-4">
 <div class="col-md-4">
   <div class="card">
     <img class="img-fluid" src="Images/Implementation.png" alt="Card image cap" style="width: 85px; height: 75px;">
     <div class="card-body">
-      <h3 class="card-title">Business Intelligence</h3>
-      <p class="card-text">Identify new business opportunities for your success</p><br>
+      <h3 class="card-title">Ready to Select SPM Software?</h3>
+      <p class="card-text">Get a complete vendor evaluation.We know the software vendors can give you an unbiased assesment.</p><br>
       <a href="#" class="btn btn-primary">Learn More</a>
     </div>
   </div>
@@ -28,8 +28,8 @@
   <div class="card">
     <img class="img-fluid" src="Images/SUPPORT.png" alt="Card image cap" style="width: 85px; height: 75px;">
     <div class="card-body">
-      <h3 class="card-title">Business Analytics</h3>
-      <p class="card-text">Focus on developing new insights to improve the business</p>
+      <h3 class="card-title">Implementation Help &amp; Support</h3>
+      <p class="card-text">We're ready to customize SPM software to your unique needs.</p><br>
       <br><a href="#" class="btn btn-primary">Learn More</a>
     </div>
   </div>
@@ -38,8 +38,8 @@
   <div class="card">
     <img class="img-fluid" src="Images/TESTING.png" alt="Card image cap" style="width: 85px; height: 75px;">
     <div class="card-body">
-      <h3 class="card-title">Data Integration</h3>
-      <p class="card-text">Involves in delivering a wide range of data quality.</p><br>
+      <h3 class="card-title">Get Support for an Existing Solution</h3>
+      <p class="card-text">Is your SPM solution working for your organization? We can audit and improve existing solutions.</p><br>
       <a href="#" class="btn btn-primary">Learn More</a>
     </div>
   </div>

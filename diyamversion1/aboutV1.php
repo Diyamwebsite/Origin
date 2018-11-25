@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div class="row" style="text-align: center;">
-		<span style="color: #4646468f; font-size: 40px; font-style: italic;">Our Vision is to become a world class technology organisation which
+		<span style="color: #4646468f; font-style: italic;">Our Vision is to become a world class technology organisation which
 		 improves the quality of all stakeholders.</span>
 	</div>
 	<div class="row" id="about">

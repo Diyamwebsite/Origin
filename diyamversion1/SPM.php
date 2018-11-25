@@ -40,7 +40,7 @@
     <img class="img-fluid" src="Images/TESTING.png" alt="Card image cap" style="width: 75px; height: 75px;">
     <div class="card-body">
       <h3 class="card-title">Testing Services</h3>
-      <p class="card-text">Visibility and transparency is the key to establishing trust and reinforcing the right behaviors. </p><br>
+      <p class="card-text">Visibility and transparency is the key to establishing trust and reinforcing the right behaviors. </p>
       <a href="Testing.php" class="btn btn-primary">Learn More</a>
     </div>
   </div>
@@ -50,8 +50,8 @@
     <img class="img-fluid" src="Images/consulting.jpg" alt="Card image cap" style="width: 75px; height: 75px;">
     <div class="card-body">
       <h3 class="card-title">Consulting Services</h3>
-      <p class="card-text">We partner with organizations to establish modern SPM program to identify and replicate great sales performers.</p>
-      <a href="#" class="btn btn-primary">Learn More</a>
+      <p class="card-text">We partner with organizations to implement SPM program to identify great sales performers.</p>
+      <a href="consulting.php" class="btn btn-primary">Learn More</a>
     </div>
   </div>
   </div>

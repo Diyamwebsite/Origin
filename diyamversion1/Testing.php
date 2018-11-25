@@ -26,7 +26,7 @@
      		<img class="img-fluid" src="Images/Testing1.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
    				<br>
-      			<p class="card-text">Providing testing and training services to ensure post-deployment success</p><br>
+      			<p class="card-text">Providing testing and training services to ensure post-deployment success</p>
     		</div>
   		</div>
   	</div>
