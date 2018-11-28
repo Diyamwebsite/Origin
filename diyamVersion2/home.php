@@ -41,7 +41,7 @@
 				id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
 					<li id="home" class="active"><a href="home.php" target="loader">Home</a></li>
-					<li id="portfolio"><a href="Portfolio.php" target="loader">Portfolio</a></li>
+					<li id="portfolio"><a>Portfolio</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">Resources <b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -381,6 +381,7 @@
 					Request a Consultation</li>
          </ul>        
     </div>
+    
     <div class="mod-cont">
     <div class="row">
       <div class="mod-col space-bottom20 col-sm-12">
@@ -390,10 +391,8 @@
       </div>    
   </div>
   </div>
-  <div class="row" style="text-align:center;">
-   
   </div>
-	</div>
+   <iframe src="Portfolio.php" id="port" style="width:100%;height:80%; display:none;"></iframe>
 	<div id="footer">
 	<div class="row">
 		<div
