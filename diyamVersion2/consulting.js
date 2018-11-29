@@ -13,7 +13,7 @@ $(document).ready(function(){
 	    $("#spmContentH").show();
 	});
 	
-	$(".spmexist").click(function(){
+	$(".spmexisting").click(function(){
 	    $("#outerLayer").hide();
 	    $("#spmConte").hide();
 	    $("#spmContentH").hide();

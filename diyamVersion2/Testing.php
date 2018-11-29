@@ -15,37 +15,34 @@
 
 <body>
 <div class="container">
-	<div class="titleheader" style="font-size: 36px;">Easy &amp; Transparent Reporting Drives Better Results</div><br>
-	<div class="content">
+	<div class="titleheader" style="font-size: 36px;height:120px;padding-left:40%;">Easy &amp; Transparent Reporting Drives Better Results</div><br>
+	<div class="content" style="width:100%;padding-left:10%;">
 	<p>Our powerful software options and expert consultants will provide your team with the tools they need to 
 	master your administration and reporting needs, while also automating these processes and providing 
 	transparency to the team. We strive to help you make the everyday requirements of running a sales performance 
 	program easy and manageable. We supports your organization by:</p>
    
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-3" style="margin-left:10%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/Testing1.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
       			<p class="card-text">Providing testing and training services to ensure post-deployment success</p>
     		</div>
   		</div>
   	</div>
-  	   <div class="col-md-4">
+  	   <div class="col-md-3" style="margin-left:2%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/Testing2.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
       			<p class="card-text">Bringing years of expertise in leading SPM technologies including IBM ICM.</p>
     		</div>
   		</div>
   	</div>
-  	   <div class="col-md-4">
+  	   <div class="col-md-3" style="margin-left:2%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/Testing3.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
       			<p class="card-text">Identifies the potential risks and challenges to ensure smooth deployment</p>
     		</div>
   		</div>

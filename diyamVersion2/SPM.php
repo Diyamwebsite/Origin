@@ -14,57 +14,58 @@
 </head>
 
 <body>
-	<div class="container">
-		<div class="titleheader" style="font-size: 36px;">High Performing
+<div class="titleheader" style="font-size: 36px;height:120px;padding-left:20%;padding-top:2%;">High Performing
 			Sales and Service Strategies &amp; Solutions</div>
-		<div class="content">
-			<div class="col-xs-6  col-sm-3 col-md-3">
-				<div class="card">
+	<div class="container" style="width:100%;">		
+		<div id="content" class="row" style="margin-top:4%;">
+			<div class="col-sm-3">
+				<div class="card" style="width:80%;margin-left:19%;">
 					<img class="img-fluid" src="Images/Implementation.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
 						<?php echo"<h3>SPM Service Implementation</h3>";?>
-						<?php echo"<p class=card-text>Offering a complete end-to-end analysis for
+						<?php echo"<p>Offering a complete end-to-end analysis for
 							defining and planning a advanced solution to support your
 							SPM.</p>";?>
 						<a href="spmcontent.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-xs-6  col-sm-3 col-md-3">
-				<div class="card">
+			<div class="col-sm-3">
+				<div class="card" style="width:80%;margin-left:-8%;">
 					<img class="img-fluid" src="Images/SUPPORT.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
-						<?php echo "<h3>Support &amp; Maintenance</h3> ";?>
-						<?php 
-						echo "<p>Delivering both business and technical
-						support at high level that's right for your organization.</p>";
+						<?php echo "<h3>Support &amp; Maintenance</h3> ";
+						      echo "<p>Delivering both business and technical
+						support at high level that's right for your organization.</p><br>";
 						?>
 						<a href="Support.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-xs-6  col-sm-3 col-md-3">
-				<div class="card">
+			<div class="col-sm-3">
+				<div class="card" style="width:80%;margin-left:-35%;">
 					<img class="img-fluid" src="Images/TESTING.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
-						<h3 class="card-title">Testing Services</h3>
-						<p class="card-text">Visibility and transparency is the key to
-							establishing trust and reinforcing the right behaviors.</p>
+						<?php echo "<h3>Testing Services</h3>";
+						      echo"<p>Visibility and transparency is the key to
+							establishing trust and reinforcing the right behaviors.</p>";?>
 						<a href="Testing.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
-			<div class="col-xs-6  col-sm-3 col-md-3">
-				<div class="card">
+			<div class="col-sm-3">
+				<div class="card" style="width:80%;margin-left:-62%;">
 					<img class="img-fluid" src="Images/consulting.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
-						<h3 class="card-title">Consulting Services</h3>
-						<p class="card-text">We partner with organizations to implement
-							SPM for great sales performers.</p>
+						<?php echo "<h3>Consulting Services</h3>";?>
+					<div style="height: 115px;">
+						<?php echo "We partner with organizations to implement
+						              SPM for great sales performers.";?>
+					</div>
 						<a href="consulting.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>

@@ -16,10 +16,11 @@
 
 <body>
 	<div id="outerLayer" class="container">
-		<div class="title" style="font-size: 36px;">Let's Get Started To Choose Your SPM Service From
+		<div class="titleheader" style="font-size: 36px;height:120px;padding-left:20%;">Let's Get Started To Choose Your SPM Service From
 			Us...</div>
-		<div class="card-deck mt-4">
-			<div class="col-md-4">
+			<div class="row">
+		<div class="card-deck mt-4" style="margin-top:10%;">
+			<div class="col-md-3" style="margin-left:15%;">
 				<div class="card">
 					<img class="img-fluid" src="Images/Implementation.png"
 						alt="Card image cap" style="width: 85px; height: 75px;">
@@ -32,7 +33,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3" style="margin-left:-2%;">
 				<div class="card">
 					<img class="img-fluid" src="Images/SUPPORT.png"
 						alt="Card image cap" style="width: 85px; height: 75px;">
@@ -45,7 +46,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3" style="margin-left:-2%;">
 				<div class="card">
 					<img class="img-fluid" src="Images/TESTING.png"
 						alt="Card image cap" style="width: 85px; height: 75px;">
@@ -58,15 +59,15 @@
 				</div>
 			</div>
 		</div>
-
+</div>
 		<iframe id="contentload"
 			style="width: 100%; height: 100%; display: none" name="spm"></iframe>
 
 	</div>
 	<div id="spmConte" style="display: none;">
-		<div class="content">
+	<div class="titleheader" style="font-size: 36px;height:120px;padding-left:10%;">Choose the Right SPM Partner</div><br>
+		<div class="content" style="width:100%;padding-left:10%;margin-top:10%;">
 		<?php 
-		  echo "<h3>Choose the Right SPM Partner</h3>";
 		  echo "<p>Implementing performance management solutions involve much more than software selection, 
                 but choosing the right SPM software is an important step. 
                 There are a variety of software options available and many questions to address, 
@@ -82,9 +83,9 @@
 		</div>
 	</div>
 		<div id="spmContentH" style="display: none;">
-		<div class="content">
+		<div class="titleheader" style="font-size: 36px;height:120px;padding-left:10%;">SPM Platform Implementation Experts</div><br>
+		<div class="content" style="width:100%;padding-left:10%;margin-top:10%;">
 		<?php 
-		  echo "<h3>SPM Platform Implementation Experts</h3>";
 		  echo "<p>Once a performance management software solution has been selected, we begin the solution 
                 implementation. We are highly evolved and specifically tailored implementation methodology that has been used 
                 with success with our clients. We understand that our customers have their own preferences in terms of methodology - 
@@ -96,7 +97,8 @@
 		</div>
 	</div>
 	<div id="spmexist" style="display: none;">
-		<div class="content">
+		<div class="titleheader" style="font-size: 36px;height:120px;padding-left:10%;">SPM Platform Implementation Experts</div><br>
+		<div class="content" style="width:100%;padding-left:10%;margin-top:10%;">
 		<?php 
 		  echo "<h3>SPM Platform Implementation Experts</h3>";
 		  echo "<p>Once a performance management software solution has been selected, we begin the solution 

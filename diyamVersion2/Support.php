@@ -15,37 +15,34 @@
 
 <body>
 <div class="container">
-	<div class="titleheader" style="font-size: 36px;">Keeping it going and growing</div><br>
-	<div class="content">
+	<div class="titleheader" style="font-size: 36px;height:120px;padding-left:50%;">Keeping it going and growing</div><br>
+	<div class="content" style="width:100%;padding-left:10%;">
 	<p>We are providing configurable managed services that provides the right level of support you need to ensure that your incentive compensation 
 	management (ICM) operations are easily manageable, efficient, and continually optimized to support your organization's growth and changing needs. 
 	Giving you the confidence to deploy and maintain a best-of-breed incentive compensation solution. We supports your organization by:</p>
    
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-3" style="margin-left:10%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/sup1.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
-      			<p class="card-text">Providing various levels of operational support that can be customized to your needs</p><br>
+      			<p class="card-text">Providing various levels of operational support that can be customized to your needs</p>
     		</div>
   		</div>
   	</div>
-  	<div class="col-md-4">
+  	<div class="col-md-3" style="margin-left:2%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/sup2.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
-      			<p class="card-text">Delivering both business and technical support at the level that's right for your organization</p><br>
+      			<p class="card-text">Delivering both business and technical support that's right for your organization</p>
     		</div>
   		</div>
   	</div>
-  	<div class="col-md-4">
+  	<div class="col-md-3" style="margin-left:2%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/sup3.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
-      			<p class="card-text">Giving you peace of mind so that you're empowered to focus on other strategic business priorities</p>
+      			<p class="card-text">Giving you peace of mind so that you're empowered to focus on business strategy plans</p>
     		</div>
   		</div>
   	</div>

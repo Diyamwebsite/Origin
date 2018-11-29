@@ -15,36 +15,33 @@
 
 <body>
 <div class="container">
-	<div class="titleheader" style="font-size: 36px;">Bringing the future into the present</div><br>
-	<div class="content">
+	<div class="titleheader" style="font-size: 36px;height:120px;padding-left:40%;">Bringing the future into the present</div><br>
+	<div class="content" style="width:100%;padding-left:10%;">
 	<p>The key to a successful sales performance management (SPM) journey is effective planning. 
 	We have the ability to expertise from hundreds of successful journeys to help you plan yours, making sure to bring into the picture common challenges, pitfalls, resources, and time commitments for each leg of the journey. 
 	During the planning phase we helps you assess your starting point and understand your destination, along with what's required to reach it. </p>
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-3" style="margin-left:10%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/Imp1.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
-      			<p class="card-text">Providing objective opinions on products and industry best practices</p><br><br>
+      			<p class="card-text">Providing objective opinions on products and industry best practices</p>
     		</div>
   		</div>
   	</div>
-  	<div class="col-md-4">
+  	<div class="col-md-3" style="margin-left:2%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/Imp2.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
-      			<p class="card-text">Creating a customized design and approach specific to your business objectives</p><br>
+      			<p class="card-text">Creating a customized design and approach specific to your business objectives</p>
     		</div>
   		</div>
   	</div>
-  	<div class="col-md-4">
+  	<div class="col-md-3" style="margin-left:2%;">
   		<div class="card">
      		<img class="img-fluid" src="Images/Imp3.png" alt="Card image cap" style="width: 75px; height: 75px;">
    			<div class="card-body">
-   				<br>
-      			<p class="card-text">Aligning technologies to your unique business requirements to facilitate effective decision making.</p>
+      			<p class="card-text">Aligning technologies to your unique business needs for effective decision making.</p>
     		</div>
   		</div>
   	</div>

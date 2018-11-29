@@ -12,9 +12,9 @@
 
 <body>
 <div class="container">
-<div class="title"  style="font-size: 36px;">Portfolio</div>
-<div class="content">
-<div class="col-md-4">
+<div class="title"  style="font-size: 36px;height:120px;padding-top:2%;">Portfolio</div>
+<div id="content" class="row">
+<div class="col-md-3 col-md-offset-1" style="margin-left: 14%;">
   <div class="card">
     <img class="img-fluid" src="Images/Implementation.png" alt="Card image cap" style="width: 85px; height: 75px;">
     <div class="card-body">
@@ -24,7 +24,7 @@
     </div>
   </div>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-3">
   <div class="card">
     <img class="img-fluid" src="Images/SUPPORT.png" alt="Card image cap" style="width: 85px; height: 75px;">
     <div class="card-body">
@@ -34,7 +34,7 @@
     </div>
   </div>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-3">
   <div class="card">
     <img class="img-fluid" src="Images/TESTING.png" alt="Card image cap" style="width: 85px; height: 75px;">
     <div class="card-body">
