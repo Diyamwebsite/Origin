@@ -7,6 +7,20 @@ $(document).ready(function(){
 	$("#portfolio").click(function(){
 	    $("#middelContent").hide();
 	    $("#contactContent").hide();
+	    $("#sp").hide();
 	    $("#port").show();
+	});
+	$("#resources").click(function(){
+	    $("#middelContent").hide();
+	    $("#contactContent").hide();
+	    $("#port").hide();
+	    $("#sp").hide();
+	    $("#reso").show();
+	});
+	$("#spm").click(function(){
+	    $("#middelContent").hide();
+	    $("#contactContent").hide();
+	    $("#port").hide();
+	    $("#sp").show();
 	});
 });

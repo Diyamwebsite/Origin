@@ -14,8 +14,8 @@
 </head>
 
 <body>
-<div class="titleheader" style="font-size: 36px;height:120px;padding-left:20%;padding-top:2%;">High Performing
-			Sales and Service Strategies &amp; Solutions</div>
+<div class="titleheader" style="font-size: 36px;height:120px;padding-left:40%;padding-top:2%;">
+			Services &amp; Solutions</div>
 	<div class="container" style="width:100%;">		
 		<div id="content" class="row" style="margin-top:4%;">
 			<div class="col-sm-3">

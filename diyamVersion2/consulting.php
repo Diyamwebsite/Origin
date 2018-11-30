@@ -16,7 +16,7 @@
 
 <body>
 	<div id="outerLayer" class="container">
-		<div class="titleheader" style="font-size: 36px;height:120px;padding-left:20%;">Let's Get Started To Choose Your SPM Service From
+		<div class="titleheader" style="font-size: 36px;height:120px;padding-left:20%;">Let's Get Started To Choose Your Service From
 			Us...</div>
 			<div class="row">
 		<div class="card-deck mt-4" style="margin-top:10%;">
@@ -24,10 +24,9 @@
 				<div class="card">
 					<img class="img-fluid" src="Images/Implementation.png"
 						alt="Card image cap" style="width: 85px; height: 75px;">
-					<div class="card-body">
-						<h3 class="card-title">Ready to Select SPM Software?</h3>
-						<p class="card-text">Get a complete vendor evaluation.We know the
-							software vendors can give you an unbiased assesment.</p>
+					<div class="card-body" style="height:190px;">
+						<h3 class="card-title">Prepare for ICM Success</h3>
+						<p class="card-text">Identify and eliminate existing challenges in your current ICM program before the implementation of technology.</p><br>
 						<br> <a id="spmAnchor" class="btn btn-primary spmAnchor">Learn
 							More</a>
 					</div>
@@ -38,9 +37,8 @@
 					<img class="img-fluid" src="Images/SUPPORT.png"
 						alt="Card image cap" style="width: 85px; height: 75px;">
 					<div class="card-body">
-						<h3 class="card-title">Implementation Help &amp; Support</h3>
-						<p class="card-text">We're ready to customize SPM software to your
-							unique needs.</p>
+						<h3 class="card-title">Assess and Monitor Your ICM Program</h3>
+						<p class="card-text">Gain visibility and insights into the effectiveness of your ICM program.</p>
 						<br> <br>
 						<a id="spmhelp" class="btn btn-primary spmhelp">Learn More</a>
 					</div>
@@ -51,9 +49,8 @@
 					<img class="img-fluid" src="Images/TESTING.png"
 						alt="Card image cap" style="width: 85px; height: 75px;">
 					<div class="card-body">
-						<h3 class="card-title">Get Support for an Existing Solution</h3>
-						<p class="card-text">Is your SPM solution working for your
-							organization? We can audit and improve existing solutions.</p>
+						<h3 class="card-title">Optimize Administration & Change Management</h3>
+						<p class="card-text">Identify and eliminate inefficiencies in your organization's current incentive compensation management program.</p>
 						<br> <a id="spmexisting" class="btn btn-primary spmexisting">Learn More</a>
 					</div>
 				</div>
