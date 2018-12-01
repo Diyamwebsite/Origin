@@ -22,12 +22,10 @@
 					style="width: 75px; height: 75px;">
 			</div>
 			<div class="col-md-3" style="padding-left: 0px; margin-top: 5px;">
-				<span style="color: #4646468f; font-size: 45px;">DIYAM</span>
+				<span style="color: #004080; font-size: 45px;">DIYAM</span>
 			</div>
-		</div>
-		<div class="row">
 			<div class="collapse navbar-collapse navbar-static-top col-md-6"
-				id="bs-example-navbar-collapse-1">
+				id="bs-example-navbar-collapse-1"style="margin-top:20px;margin-left:29%;">
 				<ul class="nav navbar-nav">
 					<li id="home" class="active"><a href="home.php" target="loader">Home</a></li>
 					<li id="portfolio" class="dropdown"><a href="#" class="dropdown-toggle"
@@ -50,16 +48,19 @@
 				</ul>
 			</div>
 		</div>
+		<div class="row">
+			
+		</div>
 	</div>
 	<div id="middelContent">
 	<div class="container" id="cont">
 		<div class="row" style="margin-top: 70px;height:40%;">
-			<div class="col-md-7 col-md-offset-3">
+			<div class="col-md-7 col-md-offset-4">
 				<span style="color: white; font-size: 40px;">Sales Performance
 					Management</span>
 			</div>
 			<div class="row">
-				<div class="col-md-9 col-md-offset-2" style="margin-top: 20px;">
+				<div class="col-md-9 col-md-offset-3" style="margin-top: 20px;">
 					<span style="color: white; font-size: 30px;">Empower and Motivate
 						Your Sales Team with SPM Solutions</span>
 				</div>
@@ -78,60 +79,28 @@
 	</div>
 	<div class="row" style="margin-top: 20px;">
 		<div class="col-md-12" style="margin-top: 20px; text-align: center;">
-			<span style="font-size: 25px; color: #1474c3;">So What Exactly Can
+			<span style="font-size: 25px; color: #004080;">So What Exactly Can
 				Diyam &amp; SPM Do For You?</span>
 		</div>
 	</div>
-	<div class="row" style="margin-top: 50px; padding-left: 135px;">
-		<div class="col-md-3 col-md-offset-1">
+	<div class="row" style="margin-top: 20px; text-align:center;color: #004080;">
+		<div class="col-md-10 col-md-offset-1">
 			<div class="card">
-				<div class="card-header">
-					<span>Sales Managers</span>
-				</div>
 				<div class="card-body">
 					<div class="row saple">
-						<span>Better Compensation Packages</span>
+						<span>Higher quality of performance information &amp; Stronger process orientation</span>
 					</div>
 					<div class="row saple">
-						<span>Fix Territory Issues</span>
+						<span>Higher operational efficiency &amp; Improvement of management quality</span>
 					</div>
 					<div class="row saple">
-						<span>Set Up The Right Quotas</span>
+						<span>Better achievement of organisational goals</span>
 					</div>
 					<div class="row saple">
-						<span>Be a Better Sales Coach</span>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-3">
-			<div class="card">
-				<div class="card-header">Financial Leaders</div>
-				<div class="card-body">
-					<div class="row saple">
-						<span>Easily Review Sales Analytics</span>
+						<span>Better strategic alignment of organisational units</span>
 					</div>
 					<div class="row saple">
-						<span>Manage Sales Data in One Place</span>
-					</div>
-					<div class="row saple">
-						<span>Automate Workflow Processes</span>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-3">
-			<div class="card">
-				<div class="card-header">Human Resources</div>
-				<div class="card-body">
-					<div class="row saple">
-						<span>Train a Better Team</span>
-					</div>
-					<div class="row saple">
-						<span>Onboard with Ease</span>
-					</div>
-					<div class="row saple">
-						<span>Resolve Team Disputes</span>
+						<span>Better strategic planning process</span>
 					</div>
 				</div>
 			</div>
@@ -140,38 +109,97 @@
 	<div class="row" style="height: 200px; margin-bottom: 30px;">
 		<div class="col-md-10 col-md-offset-1">
 			<div class="your-class">
-				<div>
-					<img class="about" src="slideimages/imh.png" title="About Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;padding-top:0%;">Bonus</div>
+  						<div class="card-body">
+    							<p class="card-text">calculated based on a target amount that is multiplied by one or more performance factors</p>
+    							<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="service" src="slideimages/imh.png" title="Our Services">
+
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Commission</div>
+  						<div class="card-body">
+    							<p class="card-text">A type of incentive often expressed as a percentage of revenues/sales</p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Channel</div>
+  						<div class="card-body">
+    							<p class="card-text">A medium for distributing or selling products or services. </p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Draw</div>
+  						<div class="card-body">
+    							<p class="card-text">An amount of money that a payee may "borrow" against their future income</p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Guarantee</div>
+  						<div class="card-body">
+    							<p class="card-text">A minimum amount guaranteed to new sales representatives</p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Quota</div>
+  						<div class="card-body">
+    							<p class="card-text">A target amount that a salesperson must sell for a particular period</p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Recurring Revenue</div>
+  						<div class="card-body">
+    							<p class="card-text">Services that are paid on a regular frequency </p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Rollup</div>
+  						<div class="card-body">
+    							<p class="card-text">Refers to sales credit that is rolled from one payee to another, </p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Sales Compensation</div>
+  						<div class="card-body">
+    							<p class="card-text">An additional incentive given to the sales rep to drive certain behaviors, generally for a specified time period</p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Split</div>
+  						<div class="card-body">
+    							<p class="card-text">A cost or payment that is split between two or more entities </p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
 				</div>
-				<div>
-					<img class="contact" src="slideimages/imh.png" title="Reach Us">
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Territory</div>
+  						<div class="card-body">
+    							<p class="card-text">Territories usually help define which salesperson gets credit for sales.</p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
+				</div>
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Threshold</div>
+  						<div class="card-body">
+    							<p class="card-text">The lowest performance level that must be achieved in order to earn an incentive payment.</p>
+ 		 						<h6 class="card-text"><a href="#">Know More</a></h6> 
+ 		 				</div>
+				</div>
+				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
+  					<div class="card-header" style="margin-top:15%;">Workflow</div>
+  						<div class="card-body">
+    							<p class="card-text">The automation of a business process.</p>
+								<h6 class="card-text"><a href="#">Know More</a></h6> 		 				
+ 		 				</div>
 				</div>
 			</div>
 		</div>
@@ -233,14 +261,14 @@
 	</div>
 	<div class="row" style="margin-top: 20px;">
 		<div class="col-md-12" style="margin-top: 20px; text-align: center;">
-			<span style="font-size: 25px; color: #1474c3;">Why Diyam?</span>
+			<span style="font-size: 25px; color: #004080;">Why Diyam?</span>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1"
 			style="margin-top: 10px; text-align: center; color: #080808cc;">
 			<span style="font-size: 17px;">Diyam has successfully delivered sales
-				performance management solutions to clients in a wide variety of
+				performance management solutions to clients in variety of
 				industries. Our experts know how to apply SPM technology to take
 				your sales organization to the next level.</span>
 		</div>
@@ -252,7 +280,7 @@
 					<div class="card-body">
 						<img src="Images/wrench.png">
 						<h2 style="text-align: center;">Discover</h2>
-						<span style="text-align: center; font-size: 21px;">Identify the business needs for SPM Solution.</span>
+						<span style="text-align: center; font-size: 20px;color: #004080;">Identify the business needs for SPM Solution.</span>
 					</div>
 				</div>
 			</div>
@@ -261,7 +289,7 @@
 					<div class="card-body">
 						<img src="Images/search.png">
 						<h2 style="text-align: center;">Design</h2>
-						<span style="text-align: center; font-size: 21px;">Design SPM Solution to meet your business needs</span>
+						<span style="text-align: center; font-size: 20px;color: #004080;">Design SPM Solution to meet your business needs</span>
 					</div>
 				</div>
 			</div>
@@ -270,7 +298,7 @@
 					<div class="card-body">
 						<img src="Images/wrench.png">
 						<h2 style="text-align: center;">Deliver</h2>
-						<span style="text-align: center; font-size: 21px;">Design &amp; deploy the right solution</span>
+						<span style="text-align: center; font-size: 20px;color: #004080;">Design &amp; deploy the right solution</span>
 					</div>
 				</div>
 			</div>
@@ -279,7 +307,7 @@
 					<div class="card-body">
 						<img src="Images/refresh.png">
 						<h2 style="text-align: center;">Manage</h2>
-						<span style="text-align: center; font-size: 21px;">Manage &amp; deliver the implemention solution.</span>
+						<span style="text-align: center; font-size: 20px;color: #004080;">Manage &amp; deliver the implemention solution.</span>
 					</div>
 				</div>
 			</div>
@@ -305,23 +333,21 @@
 				<li><a href="#">Contact</a></li>
 			</ul>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-3 col-md-offset-1" style="padding-left: 25px;">
+		<div class="col-md-3 col-md-offset-5" style="padding-left: 14%;">
 			<ul class="list-inline">
-				<li><a href="#" target="_blank" title="" data-toggle="tooltip"
+				<li><a href="https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=DiyamInfotech" target="_blank" title="" data-toggle="tooltip"
 					data-original-title="Diyam on Twitter"> <span
 						class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i
 							class="fa fa-stack-1x fa-inverse fa-twitter"></i>
 					</span>
 				</a></li>
-				<li><a href="#" target="_blank" title="" data-toggle="tooltip"
+				<li><a href="https://www.facebook.com/diyaminfotech/" target="_blank" title="" data-toggle="tooltip"
 					data-original-title="Diyam on Facebook"> <span
 						class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i
 							class="fa fa-stack-1x fa-inverse fa-facebook"></i>
 					</span>
 				</a></li>
-				<li><a href="#" target="_blank" title="" data-toggle="tooltip"
+				<li><a href="https://www.linkedin.com/company/diyam-infotech-pvt-ltd" target="_blank" title="" data-toggle="tooltip"
 					data-original-title="Diyam on LinkedIn"> <span
 						class="fa-stack fa-lg"> <i class="fa fa-circle fa-stack-2x"></i> <i
 							class="fa fa-stack-1x fa-inverse fa-linkedin"></i>
@@ -330,6 +356,9 @@
 			</ul>
 		</div>
 	</div>
+	
+		
+	
 	</div>
 	<script type="text/javascript"
 		src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>

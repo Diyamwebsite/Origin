@@ -39,6 +39,7 @@ li.dropdown:hover > .dropdown-menu {
 }
 body{
 	overflow-x:hidden !important;
+	font-family:Questrial,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #cont{
 		overflow-x:hidden !important;
@@ -63,16 +64,17 @@ body{
 }
 .saple{
 	margin-bottom:7px;
-	color:#999999f7;
+	color: #004080;
 	font-family: Questrial,"Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-weight:600;
+	font-weight:450;
+	text-align:center;
 }
 
 .fa{
 	padding-top:15px;
 }
 .fa:hover{
-	color:#1474c3 !important;
+	color:#004080 !important;
 }
 .content{
 	padding-left: 18px;
@@ -91,10 +93,21 @@ body{
 }
 .custom{
 	cursor:pointer;
-	border:0.5px solid #1474c3;
+	border:0.5px solid #004080;
 	height:300px;
 	margin-bottom:50px;
 	margin-right:40px;
+}
+.concepts{
+	cursor:pointer;
+	border:0.5px solid #004080;
+	height:185px;
+	margin-bottom:50px;
+	margin-right:40px;
+	color: #004080;
+}
+.concepts:hover{
+	border:0.5px solid darkorange;
 }
 .custom:hover{
 	border:0.5px solid darkorange;
@@ -104,14 +117,14 @@ h3{
 	font-weight:700;
 }
 h3:hover{
-	color:#1474c3 !important;
+	color:#004080 !important;
 	
 }
 h2{
-	color:#1474c3 !important;
+	color:#004080 !important;
 }
 .link,.fa-angle-right{
-	background-color:#1474c3 !important;
+	background-color:#004080 !important;
 	color:white !important;
 }
 .btn:hover, .btn:focus {
