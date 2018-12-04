@@ -19,52 +19,51 @@
 	<div class="container" style="width:100%;">		
 		<div id="content" class="row" style="margin-top:4%;">
 			<div class="col-sm-3">
-				<div class="card" style="width:80%;margin-left:19%;">
+				<div class="card" style="width:100%;margin-left:-40%;">
 					<img class="img-fluid" src="Images/Implementation.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
-						<?php echo"<h3>SPM Service Implementation</h3>";?>
-						<?php echo"<p>Offering a complete end-to-end analysis for
-							defining and planning a advanced solution to support your
-							SPM.</p>";?>
+						<?php echo"<h3>SPM Solution Implementation</h3>";?>
+						<?php echo"<p>Offering a end-to-end solution for your organisations through Standard Methodology. 
+                                    Discover, Design, Develop, Deploy and Maintain phases.</p>";?>
 						<a href="spmcontent.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<div class="card" style="width:80%;margin-left:-8%;">
+				<div class="card" style="width:100%;margin-left:-40%;">
 					<img class="img-fluid" src="Images/SUPPORT.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
-						<?php echo "<h3>Support &amp; Maintenance</h3> ";
-						      echo "<p>Delivering both business and technical
-						support at high level that's right for your organization.</p><br>";
-						?>
+						<?php echo "<h3>Support &amp; Maintenance</h3> ";?>
+						<div style="height: 115px;">
+						<?php echo "<p>Providing Technical and Functional support for SPM implementations.</p>";?>
+						</div>
 						<a href="Support.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<div class="card" style="width:80%;margin-left:-35%;">
+				<div class="card" style="width:100%;margin-left:-40%;">
 					<img class="img-fluid" src="Images/TESTING.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
-						<?php echo "<h3>Testing Services</h3>";
-						      echo"<p>Visibility and transparency is the key to
-							establishing trust and reinforcing the right behaviors.</p>";?>
+						<?php echo "<h3>Testing Services</h3>";?>
+						<div style="height: 140px;">
+						<?php echo "<p>Offering Quality Assurance Services for SPM/ICM implementations.</p>";?>
+						</div>
 						<a href="Testing.php" class="btn btn-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<div class="card" style="width:80%;margin-left:-62%;">
+				<div class="card" style="width:100%;margin-left:-40%;">
 					<img class="img-fluid" src="Images/consulting.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
 						<?php echo "<h3>Consulting Services</h3>";?>
-					<div style="height: 115px;">
-						<?php echo "We partner with organizations to implement
-						              SPM for great sales performers.";?>
+					<div style="height: 140px;">
+						<?php echo "We work with you and assist you to identify the optimal SPM solution for your organization.";?>
 					</div>
 						<a href="consulting.php" class="btn btn-primary">Learn More</a>
 					</div>

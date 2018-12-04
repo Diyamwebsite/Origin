@@ -122,7 +122,7 @@
 					<img class="img-fluid" src="Images/Implementation.png"
 						alt="Card image cap" style="width: 75px; height: 75px;">
 					<div class="card-body">
-						<?php echo"<h3>SPM Service Implementation</h3>";?>
+						<?php echo"<h3>SPM Solution Implementation</h3>";?>
 						<div style="height: 115px;">
 						<?php echo"<p>Offering a end-to-end Solution for your organisations through 
                                 Standard Methodology. Discover, Design, Develop, Deploy and Maintain phases.</p>";?>
