@@ -11,39 +11,30 @@
 </head>
 
 <body>
-<div class="container">
-<div class="title"  style="font-size: 36px;height:120px;padding-top:2%;">Portfolio</div>
+<div class="container" id="cont" style="height:58%;color: #004080;">
 <div id="content" class="row">
-<div class="col-md-3 col-md-offset-1" style="margin-left: 14%;">
-  <div class="card">
-    <img class="img-fluid" src="Images/Implementation.png" alt="Card image cap" style="width: 85px; height: 75px;">
-    <div class="card-body">
-      <h3 class="card-title">Sales Performance Management</h3>
-      <p class="card-text">Strategic business tool that motivate and empower your sales team</p><br>
-      <a href="SPM.php" class="btn btn-primary">Learn More</a>
-    </div>
-  </div>
-  </div>
-  <div class="col-md-3">
-  <div class="card">
-    <img class="img-fluid" src="Images/SUPPORT.png" alt="Card image cap" style="width: 85px; height: 75px;">
-    <div class="card-body">
-      <h3 class="card-title">Web Technologies</h3><br>
-      <p class="card-text">Focus on creating brand new software products</p>
-      <br><a href="Web.php" class="btn btn-primary">Learn More</a>
-    </div>
-  </div>
-  </div>
-  <div class="col-md-3">
-  <div class="card">
-    <img class="img-fluid" src="Images/TESTING.png" alt="Card image cap" style="width: 85px; height: 75px;">
-    <div class="card-body">
-      <h3 class="card-title">Business Integration Solution</h3>
-      <p class="card-text">Identify new business Opportunities &amp; Solutions</p><br>
-      <a href="BI.php" class="btn btn-primary">Learn More</a>
-    </div>
-  </div>
-  </div>
+<div class="row" style="margin-top: 70px;height:40%;">
+			<div class="col-md-7 col-md-offset-4">
+				<span style="color:White ; font-size: 40px;">Sales Performance
+					Management</span>
+			</div>
+			<div class="row">
+				<div class="col-md-9 col-md-offset-3" style="margin-top: 20px;">
+					<span style="color:White ; font-size: 30px;">Empower and Motivate
+						Your Sales Team with SPM Solutions</span>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-11 col-md-offset-1"
+					style="margin-top: 20px; text-align: center;height:100px;">
+					<span style="color:White ; font-size: 20px;">Ready to tackle your
+						toughest sales performance management objectives? Let us help! We
+						design and implement sales performance management technologies and
+						processes that motivate your sales teams and align corporate
+						objectives.</span>
+				</div>
+			</div>
+		</div>
 </div>
 
 </div>

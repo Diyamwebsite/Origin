@@ -13,6 +13,7 @@
 <link rel="stylesheet" type="text/css"
 	href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" />
 	<script src="homeScript.js"></script>
+	<script type="text/javascript" src="BI.js"></script>
 </head>
 <body>
 	<div id="header" class="container">
@@ -31,7 +32,7 @@
 					<li id="portfolio" class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown">Portfolio <b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li id="spm"><a href="#">SPM</a></li>
+							<li id="spm"><a href="Portfolio.php">SPM</a></li>
 							<li id="web"><a href="#">Web Technologies</a></li>
 							<li id="BI"><a href="#">Business Integration Solutions</a></li>
 						</ul>
@@ -53,29 +54,37 @@
 		</div>
 	</div>
 	<div id="middelContent">
-	<div class="container" id="cont">
-		<div class="row" style="margin-top: 70px;height:40%;">
-			<div class="col-md-7 col-md-offset-4">
-				<span style="color: white; font-size: 40px;">Sales Performance
-					Management</span>
-			</div>
-			<div class="row">
-				<div class="col-md-9 col-md-offset-3" style="margin-top: 20px;">
-					<span style="color: white; font-size: 30px;">Empower and Motivate
-						Your Sales Team with SPM Solutions</span>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-11 col-md-offset-1"
-					style="margin-top: 20px; text-align: center;">
-					<span style="color: white; font-size: 20px;">Ready to tackle your
-						toughest sales performance management objectives? Let us help! We
-						design and implement sales performance management technologies and
-						processes that motivate your sales teams and align corporate
-						objectives.</span>
-				</div>
-			</div>
-		</div>
+	<div class="container" id="cont" style="height:58%;color: #004080;">
+		<div class="col-md-3 col-md-offset-1" style="margin-left: 14%;">
+  <div class="cardhome">
+    <img class="img-fluid" src="Images/Implementation.png" alt="Card image cap" style="width: 85px; height: 75px;">
+    <div class="card-body">
+      <h3 class="card-title">Sales Performance Management</h3>
+      <p class="card-text">Strategic business tool that motivate and empower your sales team</p><br>
+      <a href="SPM.php" class="btn btn-primary">Learn More</a>
+    </div>
+  </div>
+  </div>
+  <div class="col-md-3">
+  <div class="cardhome">
+    <img class="img-fluid" src="Images/SUPPORT.png" alt="Card image cap" style="width: 85px; height: 75px;">
+    <div class="card-body">
+      <h3 class="card-title">Web Technologies</h3>
+      <p class="card-text">Focus on creating brand new software products</p>
+      <br><a href="Web.php" class="btn btn-primary">Learn More</a>
+    </div>
+  </div>
+  </div>
+  <div class="col-md-3">
+  <div class="cardhome">
+    <img class="img-fluid" src="Images/TESTING.png" alt="Card image cap" style="width: 85px; height: 75px;">
+    <div class="card-body">
+      <h3 class="card-title">Business Integration Solution</h3>
+      <p class="card-text">Identify new business Opportunities &amp; Solutions</p><br>
+      <a href="BI.php" class="btn btn-primary">Learn More</a>
+    </div>
+  </div>
+  </div>
 	</div>
 	<div class="row" style="margin-top: 20px;">
 		<div class="col-md-12" style="margin-top: 20px; text-align: center;">
@@ -106,7 +115,119 @@
 			</div>
 		</div>
 	</div>
-	<div class="row" style="height: 200px; margin-bottom: 30px;">
+	<div class="row">	
+		<div id="content" class="row" style="margin-top:-3%;color: #004080;">
+			<div class="col-sm-3">
+				<div class="cardhome" style="width:80%;margin-left:45%;">
+					<img class="img-fluid" src="Images/Implementation.png"
+						alt="Card image cap" style="width: 75px; height: 75px;">
+					<div class="card-body">
+						<?php echo"<h3>SPM Service Implementation</h3>";?>
+						<div style="height: 115px;">
+						<?php echo"<p>Offering a end-to-end Solution for your organisations through 
+                                Standard Methodology. Discover, Design, Develop, Deploy and Maintain phases.</p>";?>
+							</div>
+						<a href="spmcontent.php" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="cardhome" style="width:80%;margin-left:25%;">
+					<img class="img-fluid" src="Images/SUPPORT.png"
+						alt="Card image cap" style="width: 75px; height: 75px;">
+					<div class="card-body">
+						<?php echo "<h3>Support &amp; Maintenance</h3> ";?>
+						<div style="height: 115px;">
+						<?php echo "<p>Providing Technical and Functional support for SPM implementations.</p>";
+						?>
+						</div>
+						<a href="Support.php" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="cardhome" style="width:80%;margin-left:5%;">
+					<img class="img-fluid" src="Images/TESTING.png"
+						alt="Card image cap" style="width: 75px; height: 75px;">
+					<div class="card-body">
+						<?php echo "<h3>Testing Services</h3>";?>
+						<div style="height: 115px;">
+						      <?php echo"<p>Offering Quality Assurance Services for SPM/ICM implementations. </p>";?>
+							</div>
+						<a href="Testing.php" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="cardhome" style="width:80%;margin-left:-15%;">
+					<img class="img-fluid" src="Images/consulting.png"
+						alt="Card image cap" style="width: 75px; height: 75px;">
+					<div class="card-body">
+						<?php echo "<h3>Consulting Services</h3>";?>
+					<div style="height: 115px;">
+						<?php echo "We work with you and assist you to identify the optimal SPM solution for your organization.";?>
+					</div>
+						<a href="consulting.php" class="btn btn-primary">Learn More</a>
+					</div>
+				</div>
+			</div>
+	</div>
+	<div class="row"
+		style="margin-top: 30px; padding-left: 70px; background-color: #f1f1f1 !important; padding-top: 70px; padding-bottom: 50px;">
+		<div class="col-md-11 col-md-offset-1">
+			<div class="col-md-5 custom">
+				<div class="card">
+					<div class="card-body">
+						<div class="row saple">
+							<i class="fa fa-3x fa-cubes"></i>
+						</div>
+						<div class="row saple hrt">
+							<h3 class="text-center">Implementation Help &amp; Support</h3>
+						</div>
+						<div class="row">
+							<div class="content">
+								<p>As a leading implementation vendor, we are ready to
+									customize SPM software to your unique needs.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="link">
+								<span class="btn btn-lg btn-block btn-secondary"> Learn More <i
+									class="fa fa-angle-right"></i>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-5 custom">
+				<div class="card">
+					<div class="card-body">
+						<div class="row saple">
+							<i class="fa fa-3x fa-comments-o"></i>
+						</div>
+						<div class="row saple hrt">
+							<h3 class="text-center">Get Support for an Existing Solution</h3>
+						</div>
+						<div class="row">
+							<div class="content1">
+								<p>Is your SPM solution working for your organization? We can
+									audit and improve existing solutions.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="link">
+								<span class="btn btn-lg btn-block btn-secondary"> Learn More <i
+									class="fa fa-angle-right"></i>
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="row" style="height: 200px; margin-bottom: 30px;margin-top:20px;">
 		<div class="col-md-10 col-md-offset-1">
 			<div class="your-class">
 				<div class="card bg-light mb-3 concepts" style="max-width: 18rem;margin-top:5%;">
@@ -204,63 +325,9 @@
 			</div>
 		</div>
 	</div>
-	<div class="row"
-		style="margin-top: 30px; padding-left: 70px; background-color: #f1f1f1 !important; padding-top: 70px; padding-bottom: 50px;">
-		<div class="col-md-11 col-md-offset-1">
-			<div class="col-md-5 custom">
-				<div class="card">
-					<div class="card-body">
-						<div class="row saple">
-							<i class="fa fa-3x fa-cubes"></i>
-						</div>
-						<div class="row saple hrt">
-							<h3 class="text-center">Implementation Help &amp; Support</h3>
-						</div>
-						<div class="row">
-							<div class="content">
-								<p>As a leading implementation vendor, we are ready to
-									customize SPM software to your unique needs.</p>
-							</div>
-						</div>
-						<div class="row">
-							<div class="link">
-								<span class="btn btn-lg btn-block btn-secondary"> Learn More <i
-									class="fa fa-angle-right"></i>
-								</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-5 custom">
-				<div class="card">
-					<div class="card-body">
-						<div class="row saple">
-							<i class="fa fa-3x fa-comments-o"></i>
-						</div>
-						<div class="row saple hrt">
-							<h3 class="text-center">Get Support for an Existing Solution</h3>
-						</div>
-						<div class="row">
-							<div class="content1">
-								<p>Is your SPM solution working for your organization? We can
-									audit and improve existing solutions.</p>
-							</div>
-						</div>
-						<div class="row">
-							<div class="link">
-								<span class="btn btn-lg btn-block btn-secondary"> Learn More <i
-									class="fa fa-angle-right"></i>
-								</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 	</div>
-	<div class="row" style="margin-top: 20px;">
-		<div class="col-md-12" style="margin-top: 20px; text-align: center;">
+	<div class="row" style="margin-top: 0%;">
+		<div class="col-md-12" style="margin-top: 0%; text-align: center;">
 			<span style="font-size: 25px; color: #004080;">Why Diyam?</span>
 		</div>
 	</div>
@@ -276,38 +343,38 @@
 	<div class="row" style="margin-top: 30px; margin-bottom: 50px;">
 		<div class="col-md-11 col-md-offset-1">
 			<div class="col-md-3">
-				<div class="card">
+				<div class="card" style="margin-left: -50%;">
 					<div class="card-body">
 						<img src="Images/wrench.png">
 						<h2 style="text-align: center;">Discover</h2>
-						<span style="text-align: center; font-size: 20px;color: #004080;">Identify the business needs for SPM Solution.</span>
+						<span style="text-align: center; font-size: 17px;color: #004080;">Identify the business needs for SPM Solution.</span>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="card">
+				<div class="card" style="margin-left: -50%;">
 					<div class="card-body">
 						<img src="Images/search.png">
 						<h2 style="text-align: center;">Design</h2>
-						<span style="text-align: center; font-size: 20px;color: #004080;">Design SPM Solution to meet your business needs</span>
+						<span style="text-align: center; font-size: 17px;color: #004080;">Design to meet your business needs</span>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="card">
+				<div class="card" style="margin-left: -50%;">
 					<div class="card-body">
 						<img src="Images/wrench.png">
 						<h2 style="text-align: center;">Deliver</h2>
-						<span style="text-align: center; font-size: 20px;color: #004080;">Design &amp; deploy the right solution</span>
+						<span style="text-align: center; font-size: 17px;color: #004080;">Design &amp; deploy the right solution</span>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="card">
+				<div class="card" style="margin-left: -50%;">
 					<div class="card-body">
 						<img src="Images/refresh.png">
 						<h2 style="text-align: center;">Manage</h2>
-						<span style="text-align: center; font-size: 20px;color: #004080;">Manage &amp; deliver the implemention solution.</span>
+						<span style="text-align: center; font-size: 17px;color: #004080;">Manage &amp; deliver the implemention solution.</span>
 					</div>
 				</div>
 			</div>

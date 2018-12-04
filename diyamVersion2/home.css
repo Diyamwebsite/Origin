@@ -164,3 +164,25 @@ h2{
 .page-header{
 	border:none !important;
 }
+.cardhome {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;	
+  margin-top:80px;
+  margin-right:10px;
+  margin-left:10px;
+  text-align: center;
+  font-family: Questrial,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  padding-top:30px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-bottom:20px;
+  float:left;
+ border:0.5px solid #0080c0;
+ background-color:White !important;
+}
+.cardhome:hover{
+	-webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+	-moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+	box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+	cursor:pointer;	
+}

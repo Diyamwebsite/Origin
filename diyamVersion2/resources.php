@@ -40,7 +40,7 @@
     <div class="card-body">
       <h3 class="card-title">Videos</h3>
       <p class="card-text">Identify new business Opportunities &amp; Solutions</p><br>
-      <a href="BI.php" class="btn btn-primary">Learn More</a>
+      <a href="ICMVideos.php" class="btn btn-primary">Learn More</a>
     </div>
   </div>
   </div>
