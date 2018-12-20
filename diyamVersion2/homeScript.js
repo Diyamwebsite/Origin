@@ -8,6 +8,7 @@ $(document).ready(function(){
 	    $("#middelContent").hide();
 	    $("#contactContent").hide();
 	    $("#sp").hide();
+	    $("#reso").hide();
 	    $("#port").show();
 	});
 	$("#resources").click(function(){
@@ -21,6 +22,7 @@ $(document).ready(function(){
 	    $("#middelContent").hide();
 	    $("#contactContent").hide();
 	    $("#port").hide();
+	    $("#reso").hide();
 	    $("#sp").show();
 	});
 });
